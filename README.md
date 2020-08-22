@@ -16,7 +16,7 @@ So to have this pretrained model learn any face is much easier to train as the m
 needed information to perform the task.
 
 
-#The Model PipeLine
+## The Model PipeLine
 
 The Model pipeline as explained above is found below:
 
