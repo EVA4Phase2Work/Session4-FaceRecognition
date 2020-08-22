@@ -64,3 +64,9 @@ There are 15 images of train data and 5 images of test data.
                           |_ _ _
                    
                
+## HTML File for Prediction:
+    
+    http://evadebs1.s3-website.ap-south-1.amazonaws.com
+    
+    
+    
