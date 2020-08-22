@@ -74,10 +74,10 @@ https://drive.google.com/file/d/1dy4EukqBXosU4yNU_usB5hve1_817uwz/view?usp=shari
 
 ## Code Structure:
 
-face_latest_training.ipynb (https://github.com/EVA4Phase2Work/Session4-FaceRecognition/blob/master/face_latest_training.ipynb)- Jupyter Notebook for training the model
-mtcnn_processing.py (https://github.com/EVA4Phase2Work/Session4-FaceRecognition/blob/master/mtcnn_processing.py) - Python file for porcessing images to get the face using MTCNN model
-handler.py - Serverless Handler Python file
-serverless.yml - Serverless deployment yml file
+#### face_latest_training.ipynb (https://github.com/EVA4Phase2Work/Session4-FaceRecognition/blob/master/face_latest_training.ipynb)- Jupyter Notebook for training the model
+#### mtcnn_processing.py (https://github.com/EVA4Phase2Work/Session4-FaceRecognition/blob/master/mtcnn_processing.py) - Python file for porcessing images to get the face using MTCNN model
+##### handler.py - Serverless Handler Python file
+###### serverless.yml - Serverless deployment yml file
 
 
     
