@@ -26,7 +26,7 @@ The Model pipeline as explained above is found below:
 
 ## The DataSet
 
-The dataset consists of 100 Classes of  10 Celebrities.The following celebrities are taken for predicting faces:
+The dataset consists of 20 images of  10 Celebrities.The following celebrities are taken for predicting faces:
 
 1.Amitabh Bacchan
 2.Ananya Pandey
@@ -36,7 +36,9 @@ The dataset consists of 100 Classes of  10 Celebrities.The following celebrities
 6.Tom Hanks
 7.Lion Messi
 8.Barrack Obama
-9.Virat Kohni
+9.Micheal Jordan
 10.
+
+There are 15 images of train data and 5 images of test data.
 
 
