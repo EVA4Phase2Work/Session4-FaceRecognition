@@ -8,7 +8,7 @@ The Last few layers of the pretrained resnet-inception model is unfreezed while 
 
 The trained model is used to predict the faces.
 
-Note,Instead of training a neural network from scratch, it's better to start with a pre-trained network and then finetune it to recognize the face. 
+We used  pre-trained facenet model and then finetune it to recognize the face. 
 Finetuning is greatly beneficial as we can start with the model weights already trained on a large-scale face database and then update 
 some of them to reflect the new tasks we want it to perform. 
 These weights already understand how to recognize faces, but the only difference is it does not know my face. 
@@ -73,6 +73,11 @@ https://drive.google.com/file/d/1dy4EukqBXosU4yNU_usB5hve1_817uwz/view?usp=shari
     http://evadebs1.s3-website.ap-south-1.amazonaws.com
 
 ## Code Structure:
+
+face_latest_training.ipynb (https://github.com/EVA4Phase2Work/Session4-FaceRecognition/blob/master/face_latest_training.ipynb)- Jupyter Notebook for training the model
+mtcnn_processing.py (https://github.com/EVA4Phase2Work/Session4-FaceRecognition/blob/master/mtcnn_processing.py) - Python file for porcessing images to get the face using MTCNN model
+handler.py - Serverless Handler Python file
+serverless.yml - Serverless deployment yml file
 
 
     
