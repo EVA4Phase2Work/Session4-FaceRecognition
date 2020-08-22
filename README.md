@@ -489,4 +489,8 @@ train Loss: 2.2943 Acc: 0.8313
 val Loss: 2.2945 Acc: 0.8600
 Training complete in 1m 46s
 Best val Acc: 0.880000
+
+## Loss Plot
+
+![Loss Plot](/loss_plot.png)
     
