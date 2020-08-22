@@ -22,3 +22,10 @@ The Model pipeline as explained above is found below:
 
 
 ![](https://github.com/EVA4Phase2Work/Session4-FaceRecognition/blob/master/ModelPipeline.gif)
+
+
+## The DataSet
+
+The dataset consists of 20 Classes of  10 Celebrities.The following celebrities are taken for predicting faces:
+
+
