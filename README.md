@@ -37,7 +37,7 @@ The dataset consists of 20 images of  10 Celebrities.The following celebrities a
 #### 7.Lion Messi
 #### 8.Barrack Obama
 #### 9.Micheal Jordan
-10.
+#### 10.Lalu Yadav
 
 There are 15 images of train data and 5 images of test data.
 
