@@ -42,3 +42,24 @@ The dataset consists of 20 images of  10 Celebrities.The following celebrities a
 There are 15 images of train data and 5 images of test data.
 
 
+# Data Structure:
+           data_temp
+               |
+               |
+               test_me
+                  |
+                  |_ _ _train
+                  |       |
+                  |       |_ _ _Amitabh
+                  |       |_ _ _LaLu
+                  |       |_ _ _Obama
+                  |       |_ _ _
+                  |
+                  |_ _ _val
+                          |      
+                          |_ _ _Amitabh
+                          |_ _ _LaLu
+                          |_ _ _Obama
+                          |_ _ _
+                   
+               
