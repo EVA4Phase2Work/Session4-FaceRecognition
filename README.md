@@ -28,15 +28,15 @@ The Model pipeline as explained above is found below:
 
 The dataset consists of 20 images of  10 Celebrities.The following celebrities are taken for predicting faces:
 
-## 1.Amitabh Bacchan
-## 2.Ananya Pandey
-## 3.Anil Kapoor
-## 4.Bill Gates
-## 5.Elon Musk
-## 6.Tom Hanks
-## 7.Lion Messi
-## 8.Barrack Obama
-## 9.Micheal Jordan
+#### 1.Amitabh Bacchan
+#### 2.Ananya Pandey
+#### 3.Anil Kapoor
+#### 4.Bill Gates
+#### 5.Elon Musk
+#### 6.Tom Hanks
+#### 7.Lion Messi
+#### 8.Barrack Obama
+#### 9.Micheal Jordan
 10.
 
 There are 15 images of train data and 5 images of test data.
