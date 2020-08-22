@@ -2,4 +2,4 @@
 Face Recognition
 
 
-![](https://github.com/EVA4Phase2Work/AWSDeployment/blob/master/Prediction.PNG)
+![](https://github.com/EVA4Phase2Work/Session4-FaceRecognition/blob/master/ModelPipeline.gif)
